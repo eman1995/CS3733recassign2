@@ -1,0 +1,6 @@
+a) The program is functionally complete each file is handled by a separate thread
+b) Simply use mutext locks when each thread will manipulate the global linked list
+c) gcc wordcountfreq.c -o wordcountfreq -lpthread use this command to compile the program
+then use ./wordcountfreq file_n to run
+d) collaboration on ideas and implementation on how to structure threads
+e) not much
